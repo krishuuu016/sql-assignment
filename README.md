@@ -1,2 +1,2 @@
-# sql-assignment part 1
+# sql-assignment 
 submitted by divyansh rajput (2nd year AITR)
